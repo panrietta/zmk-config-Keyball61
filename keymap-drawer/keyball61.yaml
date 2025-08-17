@@ -25,7 +25,7 @@ layers:
   - O
   - P
   - {t: '[', s: '{'}
-  - MOUSE
+  - SCRNUM
   - A
   - S
   - D
@@ -54,14 +54,14 @@ layers:
   - $$mdi:apple-keyboard-control$$
   - LWIN
   - $$mdi:apple-keyboard-option$$
-  - SYM
-  - SYM
+  - FUN
+  - FUN
   - $$mdi:keyboard-space$$
-  - MOUSE
+  - SCRNUM
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - LANG2
   - INT1
-  - FUN
+  - MOUSE
   NUM:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '1', s: '!'}
@@ -178,8 +178,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held}
-  - {type: held alternate}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -240,14 +240,14 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held}
+  - {type: held alternate}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - INT HENKAN
   - LANG1
   - {t: \, s: '|'}
-  - {type: held}
+  - {t: '$$mdi:transfer$$', type: trans}
   MOUSE:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -273,7 +273,7 @@ layers:
   - $$mdi:pan-up$$
   - $$mdi:pan-right$$
   - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -305,11 +305,11 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held alternate}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - FUN
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held}
   SCRNUM:
   - {t: '$$mdi:transfer$$', type: trans}
   - {h: '2', s: '$$mdi:bluetooth-connect$$'}
@@ -357,7 +357,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - KP 0
-  - {type: held}
+  - {type: held alternate}
   - KP DOT
   - KP ENTER
   - {t: '$$mdi:transfer$$', type: trans}
@@ -367,11 +367,11 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held}
+  - {type: held alternate}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held alternate}
   SNIPE:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
