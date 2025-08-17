@@ -246,7 +246,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - INT HENKAN
   - LANG1
-  - trans
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   MOUSE:
   - {t: '$$mdi:transfer$$', type: trans}
