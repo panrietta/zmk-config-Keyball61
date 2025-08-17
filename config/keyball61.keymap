@@ -64,11 +64,11 @@
         function_layer {
             label = "FUN";
             bindings = <
-&kp GRAVE &kp F1         &kp F2           &kp F3        &kp F4            &kp F5                         &kp F6   &kp F7  &kp F8   &kp F9    &kp F10   &kp EQUAL
-&trans    &kp LC(LS(N1)) &kp LC(LG(LEFT)) &kp UP        &kp LC(LG(RIGHT)) &trans                         &trans   &kp INS &kp HOME &kp PG_UP &kp F11   &kp RBKT
-&trans    &kp DEL        &kp LEFT         &kp DOWN      &kp RIGHT         &trans                         &kp BSPC &kp DEL &kp END  &kp PG_DN &kp F12   &kp NUHS
-&trans    &kp K_APP      &kp LA(F4)       &kp LC(LA(C)) &kp LC(LA(V))     &trans  &trans  &trans         &trans   &trans  &trans   &trans    &kp INT1  &trans
-&trans    &trans         &trans           &trans        &trans            &trans  &trans  &kp INT_HENKAN &kp LANG1                           &kp trans &trans
+&kp GRAVE &kp F1         &kp F2           &kp F3        &kp F4            &kp F5                         &kp F6   &kp F7  &kp F8   &kp F9    &kp F10  &kp EQUAL
+&trans    &kp LC(LS(N1)) &kp LC(LG(LEFT)) &kp UP        &kp LC(LG(RIGHT)) &trans                         &trans   &kp INS &kp HOME &kp PG_UP &kp F11  &kp RBKT
+&trans    &kp DEL        &kp LEFT         &kp DOWN      &kp RIGHT         &trans                         &kp BSPC &kp DEL &kp END  &kp PG_DN &kp F12  &kp NUHS
+&trans    &kp K_APP      &kp LA(F4)       &kp LC(LA(C)) &kp LC(LA(V))     &trans  &trans  &trans         &trans   &trans  &trans   &trans    &kp INT1 &trans
+&trans    &trans         &trans           &trans        &trans            &trans  &trans  &kp INT_HENKAN &kp LANG1                           &trans   &trans
             >;
         };
 
