@@ -60,7 +60,7 @@ layers:
   - SCRNUM
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - LANG2
-  - INT1
+  - {t: \, s: '|'}
   - MOUSE
   NUM:
   - {t: '$$mdi:transfer$$', type: trans}
@@ -226,7 +226,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - APP
   - Alt+F4
-  - Ctl+Alt+A
+  - Ctl+Alt+C
   - Ctl+Alt+V
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -246,7 +246,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - INT HENKAN
   - LANG1
-  - {t: \, s: '|'}
+  - trans
   - {t: '$$mdi:transfer$$', type: trans}
   MOUSE:
   - {t: '$$mdi:transfer$$', type: trans}
