@@ -34,7 +34,7 @@
 &kp TAB    &kp Q    &kp W     &kp E   &kp R   &kp T                                 &kp Y      &kp U   &kp I      &kp O    &kp P    &kp LBKT
 &mo SCROLL &kp A    &kp S     &kp D   &kp F   &kp G                                 &kp H      &kp J   &kp K      &kp L    &kp SEMI &kp SQT
 &kp LSHFT  &kp Z    &kp X     &kp C   &kp V   &kp B     &kp PAGE_DOWN  &kp PAGE_UP  &kp N      &kp M   &kp COMMA  &kp DOT  &kp FSLH &kp RIGHT_SHIFT
-&kp LCTRL  &kp LWIN &kp LALT  &mo FUN &mo FUN &kp SPACE &mo SCROLL     &kp ENTER    &kp LANG2                              &kp BSLH &mo MOUSE
+&kp LCTRL  &kp LWIN &kp LALT  &mo FUN &mo FUN &kp SPACE &mo SCROLL     &kp ENTER    &kp LANG2                              &kp 0x89 &mo MOUSE
             >;
         };
 
