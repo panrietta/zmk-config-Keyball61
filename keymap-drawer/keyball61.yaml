@@ -60,7 +60,7 @@ layers:
   - SCRNUM
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - LANG2
-  - {t: \, s: '|'}
+  - '0x89'
   - MOUSE
   NUM:
   - {t: '$$mdi:transfer$$', type: trans}
